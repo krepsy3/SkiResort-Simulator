@@ -1,0 +1,8 @@
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\bin\Debug\test.exe.config
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\bin\Debug\test.exe
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\bin\Debug\test.pdb
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\bin\Debug\SkiResort Simulator.exe
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\bin\Debug\SkiResort Simulator.pdb
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\obj\Debug\test.exe
+C:\Users\Kryštof\Documents\Dokumenty\GitHub\SkiResort Simulator\test\obj\Debug\test.pdb
